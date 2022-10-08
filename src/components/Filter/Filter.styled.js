@@ -20,7 +20,7 @@ export const FilterInput = styled.input`
     border: 3px solid;
     border-color: #a4d7f9;
      &:focus {
-    border: 1px solid ;
+    border: 3px solid ;
     border-color: #a4d7f9;
      background-color: #f8fcff;
      box-shadow: 1px 1px 2px 3px #a4d7f9;
